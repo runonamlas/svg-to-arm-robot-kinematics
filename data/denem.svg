@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="denem"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.26771948"
+     inkscape:cx="702.22758"
+     inkscape:cy="707.83046"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#ff0000;stroke-width:0.26"
+       id="path111"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="62.196362"
+       sodipodi:cy="80.382095"
+       sodipodi:r1="60.375652"
+       sodipodi:r2="30.187828"
+       sodipodi:arg1="0.93659137"
+       sodipodi:arg2="1.5649099"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 97.971185,129.01728 62.374059,110.5694 26.996579,129.43507 33.54144,89.879486 4.6668758,62.063316 44.308949,56.0645 61.840967,20.007489 79.796254,55.855605 119.5062,61.387315 90.961106,89.541485 Z"
+       inkscape:transform-center-x="0.10982377"
+       inkscape:transform-center-y="-5.6608153"
+       transform="translate(43.392158,10.450264)" />
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="34.982315"
+       y="248.96428"
+       id="text275"><tspan
+         sodipodi:role="line"
+         id="tspan273"
+         style="stroke-width:0.264583"
+         x="34.982315"
+         y="248.96428">ST</tspan></text>
+  </g>
+</svg>
