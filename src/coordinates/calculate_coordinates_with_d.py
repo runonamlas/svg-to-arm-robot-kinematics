@@ -64,7 +64,9 @@ def main(dlist, t):
               coordinatList.extend(curve_points)
           else:
             p0 = coordinatList[-1]
-            curve_points = calculate_q_and_curve_points.main(p0, pair, pair2,int(t/2))
+            p1 = (coordinat[0], coordinat[1])
+            p2 = (coordinat[2], coordinat[3])    
+            curve_points = calculate_q_and_curve_points.main(p0, p1, p2,int(t/2))
             coordinatList.extend(curve_points)
         elif lo[0] == "T":
 
